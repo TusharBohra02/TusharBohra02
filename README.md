@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on myself — the code and the person<br>I'm looking to collaborate on ideas that start with "bro what if we made..."<br> I'm looking for help with not switching 10 YouTube tabs while studying<br> I'm currently learning that consistency beats motivation every single day<br>Ask me about literally anything, I'll either know the answer or pretend I do<br>⚡ Fun fact I think better at 2am than at 2pm and I have no explanation for that
+I'm currently working on myself — the code and the person<br>I'm looking to collaborate on ideas that start with "bro what if we made..."<br> I'm looking for help with not switching 10 YouTube tabs while studying<br> I'm currently learning that consistency beats motivation every single day<br>Ask me about literally anything, I'll either know the answer or pretend I do<br> Fun fact I think better at 2am than at 2pm and I have no explanation for that
 
 
 # 💻 Tech Stack:
